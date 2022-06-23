@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 31
+
+    defaultConfig {
+        applicationId "com.example.canvasexample"
+        minSdkVersion 19
+        targetSdkVersion 31
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    //noinspection GradleCompatible
+    implementation 'com.google.firebase:firebase-firestore:24.0.1'
+    implementation 'com.google.firebase:firebase-storage:20.0.0'
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'androidx.multidex:multidex:2.0.1'
+}

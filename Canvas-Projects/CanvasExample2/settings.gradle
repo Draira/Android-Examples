@@ -1,0 +1,2 @@
+rootProject.name = "CanvasExample2"
+include ':app'

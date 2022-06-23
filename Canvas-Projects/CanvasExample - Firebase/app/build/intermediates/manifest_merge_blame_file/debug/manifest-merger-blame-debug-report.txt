@@ -1,0 +1,148 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright (C) 2017 Google Inc.
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~     http://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.canvasexample"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="19"
+23-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="31" />
+24-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+25
+26    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+27    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+28    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+28-->[com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:13:5-79
+28-->[com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:13:22-76
+29    <uses-permission android:name="android.permission.INTERNET" />
+29-->[com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:14:5-67
+29-->[com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:14:22-64
+30
+31    <application
+31-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:21:5-35:19
+32        android:name="androidx.multidex.MultiDexApplication"
+33        android:allowBackup="true"
+33-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:21:18-44
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.7.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\e592a651298b7f9c0ac46565c2c2cad1\core-1.7.0\AndroidManifest.xml:24:18-86
+35        android:debuggable="true"
+36        android:icon="@mipmap/ic_launcher"
+36-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:22:9-43
+37        android:label="@string/app_name"
+37-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:23:9-41
+38        android:roundIcon="@mipmap/ic_launcher_round"
+38-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:24:9-54
+39        android:supportsRtl="true"
+39-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:25:9-35
+40        android:testOnly="true"
+41        android:theme="@style/AppTheme" >
+41-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:26:9-40
+42        <activity
+42-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:27:9-34:20
+43            android:name="com.example.canvasexample.MainActivity"
+43-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:28:13-41
+44            android:exported="true" >
+44-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:29:13-36
+45            <intent-filter>
+45-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:30:13-33:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:31:17-69
+46-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:31:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:32:17-77
+48-->C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:32:27-74
+49            </intent-filter>
+50        </activity>
+51
+52        <service
+52-->[com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:17:9-23:19
+53            android:name="com.google.firebase.components.ComponentDiscoveryService"
+53-->[com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:18:13-84
+54            android:directBootAware="true"
+54-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+55            android:exported="false" >
+55-->[com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:19:13-37
+56            <meta-data
+56-->[com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:20:13-22:85
+57                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+57-->[com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:21:17-111
+58                android:value="com.google.firebase.components.ComponentRegistrar" />
+58-->[com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:22:17-82
+59            <meta-data
+59-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:33:13-35:85
+60                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+60-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:34:17-107
+61                android:value="com.google.firebase.components.ComponentRegistrar" />
+61-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:35:17-82
+62        </service>
+63
+64        <provider
+64-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+65            android:name="com.google.firebase.provider.FirebaseInitProvider"
+65-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+66            android:authorities="com.example.canvasexample.firebaseinitprovider"
+66-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+67            android:directBootAware="true"
+67-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+68            android:exported="false"
+68-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+69            android:initOrder="100" />
+69-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+70
+71        <activity
+71-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9076147a624b6aced4facc32b04b7a7b\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+72            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+72-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9076147a624b6aced4facc32b04b7a7b\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+73            android:exported="false"
+73-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9076147a624b6aced4facc32b04b7a7b\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+74            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+74-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9076147a624b6aced4facc32b04b7a7b\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+75
+76        <meta-data
+76-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\b1ed1844b3a1d279ea41002b75e78e95\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+77            android:name="com.google.android.gms.version"
+77-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\b1ed1844b3a1d279ea41002b75e78e95\play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+78            android:value="@integer/google_play_services_version" />
+78-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\b1ed1844b3a1d279ea41002b75e78e95\play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+79
+80        <provider
+80-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+81            android:name="androidx.startup.InitializationProvider"
+81-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+82            android:authorities="com.example.canvasexample.androidx-startup"
+82-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+83            android:exported="false" >
+83-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+84            <meta-data
+84-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+85                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+85-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+86                android:value="androidx.startup" />
+86-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+87            <meta-data
+87-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\7cc54d82b0522692b28d725c704ee929\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+88                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+88-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\7cc54d82b0522692b28d725c704ee929\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+89                android:value="androidx.startup" />
+89-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\7cc54d82b0522692b28d725c704ee929\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+90        </provider>
+91    </application>
+92
+93</manifest>

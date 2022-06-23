@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619776994902",
+    "project_id": "canvasexample---firebase2",
+    "storage_bucket": "canvasexample---firebase2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619776994902:android:e76e97a3be72072be315f7",
+        "android_client_info": {
+          "package_name": "com.example.canvasexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619776994902-sjov63ibj1p0gk4jdschi0e6bt01sq1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9uPuC2dwWL70fY0CezGECBA9zxfhsEnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619776994902-sjov63ibj1p0gk4jdschi0e6bt01sq1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Apr 07 23:18:40 CLT 2022
+0.base=C\:\\Users\\Masita\\AndroidStudioProjects\\Canvas Proyects\\CanvasExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

@@ -1,0 +1,17 @@
+com/example/canvasexample/BuildConfig.java
+ com.example.canvasexample.BuildConfig
+com/example/canvasexample/Coordinates.java
+ com.example.canvasexample.Coordinates
+com/example/canvasexample/Image.java
+ com.example.canvasexample.Image
+com/example/canvasexample/Stroke.java
+ com.example.canvasexample.Stroke
+com/example/canvasexample/Sheet.java
+ com.example.canvasexample.Sheet
+com/example/canvasexample/MainActivity.java
+ com.example.canvasexample.MainActivity
+com/example/canvasexample/MyCanvasView.java
+ com.example.canvasexample.MyCanvasView
+ com.example.canvasexample.MyCanvasView$1
+ com.example.canvasexample.MyCanvasView$2
+ com.example.canvasexample.MyCanvasView$3

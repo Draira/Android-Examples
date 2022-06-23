@@ -1,0 +1,4 @@
+#Mon Jun 20 22:07:31 CLT 2022
+base.0=C\:\\Users\\Masita\\AndroidStudioProjects\\Canvas Proyects\\CanvasExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,307 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:18:1-37:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\08ae2316b5a502ba1daddc7634e8adac\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\e8a3da6c88446b36474c30857eac2225\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\a3f37b9b704b34b76378228bcfa9e577\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\f05a31489771528e49c14832ba774db6\firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\2bc3c24afc3448ec2816a08ad1640281\firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\f440f7ead500b8043954af44cd93e584\firebase-database-collection-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9076147a624b6aced4facc32b04b7a7b\play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\749186958342edcced5a7b2a709d6aa5\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\b1ed1844b3a1d279ea41002b75e78e95\play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\e8907ccacb5e535d521cdb75e250c21e\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ae71fa7efcb3fde2397107c26da8c1bb\activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\0c292e2621b82f86dc065dd47b688092\appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\55ddf8d047bc9fbad95a2bb114502f03\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\2ffe1e5a455d153b96dc1ec7902faa46\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9a837fbf0a3c3f16e59f1087f6da887d\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\07243b3d71914bd3ce22a6a32b5fbc96\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\64a69e57b43031c703c70129194c022c\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\c566ed363f75c2e0315da326208e87b2\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\374aba8ea7cc03a2fcf583625d1ff2ca\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\e592a651298b7f9c0ac46565c2c2cad1\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\2a92a94304e21911be2d53bbadc541ce\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\c03b3c54837d6f8a9f409a5d2100a1a0\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\f85380187343dd28933cc23cdb83e663\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\c4535fc9969b4e12e413444c746c9448\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\805303cef8652e6f32306c2b7f85612f\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\7cc54d82b0522692b28d725c704ee929\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\342c3efc9934dc60ee72425a6bd2ff04\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\bd8654e6d24409e7c6912f2eae2243c6\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\3f1681fa942e3043b3c0d882f01fe90c\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\433e3ca9afc9d7ddd0e99d6ddc3f0617\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\86484070d9d18ad431d99fbd92afae44\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\65c1dcd184b8cbe60d6428eb8564e4d7\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\267a83c94598bb805d4ae9cd169598c3\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\d0ece483a15154c9313e8c59ebada92b\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\36df53ad5cd9dfed337df207fa2d581c\grpc-android-1.41.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\400db0c6924849447922a65cbcf72665\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:19:5-40
+		INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:21:5-35:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\a3f37b9b704b34b76378228bcfa9e577\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\a3f37b9b704b34b76378228bcfa9e577\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\f05a31489771528e49c14832ba774db6\firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\f05a31489771528e49c14832ba774db6\firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9076147a624b6aced4facc32b04b7a7b\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9076147a624b6aced4facc32b04b7a7b\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\749186958342edcced5a7b2a709d6aa5\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\749186958342edcced5a7b2a709d6aa5\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\b1ed1844b3a1d279ea41002b75e78e95\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\b1ed1844b3a1d279ea41002b75e78e95\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\e592a651298b7f9c0ac46565c2c2cad1\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\e592a651298b7f9c0ac46565c2c2cad1\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\805303cef8652e6f32306c2b7f85612f\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\805303cef8652e6f32306c2b7f85612f\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\7cc54d82b0522692b28d725c704ee929\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\7cc54d82b0522692b28d725c704ee929\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\342c3efc9934dc60ee72425a6bd2ff04\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\342c3efc9934dc60ee72425a6bd2ff04\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\e592a651298b7f9c0ac46565c2c2cad1\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:21:18-44
+	android:theme
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.example.canvasexample.MainActivity
+ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\08ae2316b5a502ba1daddc7634e8adac\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\08ae2316b5a502ba1daddc7634e8adac\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\e8a3da6c88446b36474c30857eac2225\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\e8a3da6c88446b36474c30857eac2225\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\a3f37b9b704b34b76378228bcfa9e577\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\a3f37b9b704b34b76378228bcfa9e577\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\f05a31489771528e49c14832ba774db6\firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\f05a31489771528e49c14832ba774db6\firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\2bc3c24afc3448ec2816a08ad1640281\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\2bc3c24afc3448ec2816a08ad1640281\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\f440f7ead500b8043954af44cd93e584\firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\f440f7ead500b8043954af44cd93e584\firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9076147a624b6aced4facc32b04b7a7b\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9076147a624b6aced4facc32b04b7a7b\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\749186958342edcced5a7b2a709d6aa5\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\749186958342edcced5a7b2a709d6aa5\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\b1ed1844b3a1d279ea41002b75e78e95\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\b1ed1844b3a1d279ea41002b75e78e95\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\e8907ccacb5e535d521cdb75e250c21e\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\e8907ccacb5e535d521cdb75e250c21e\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ae71fa7efcb3fde2397107c26da8c1bb\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ae71fa7efcb3fde2397107c26da8c1bb\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\0c292e2621b82f86dc065dd47b688092\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\0c292e2621b82f86dc065dd47b688092\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\55ddf8d047bc9fbad95a2bb114502f03\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\55ddf8d047bc9fbad95a2bb114502f03\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\2ffe1e5a455d153b96dc1ec7902faa46\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\2ffe1e5a455d153b96dc1ec7902faa46\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9a837fbf0a3c3f16e59f1087f6da887d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9a837fbf0a3c3f16e59f1087f6da887d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\07243b3d71914bd3ce22a6a32b5fbc96\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\07243b3d71914bd3ce22a6a32b5fbc96\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\64a69e57b43031c703c70129194c022c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\64a69e57b43031c703c70129194c022c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\c566ed363f75c2e0315da326208e87b2\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\c566ed363f75c2e0315da326208e87b2\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\374aba8ea7cc03a2fcf583625d1ff2ca\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\374aba8ea7cc03a2fcf583625d1ff2ca\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\e592a651298b7f9c0ac46565c2c2cad1\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\e592a651298b7f9c0ac46565c2c2cad1\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\2a92a94304e21911be2d53bbadc541ce\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\2a92a94304e21911be2d53bbadc541ce\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\c03b3c54837d6f8a9f409a5d2100a1a0\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\c03b3c54837d6f8a9f409a5d2100a1a0\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\f85380187343dd28933cc23cdb83e663\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\f85380187343dd28933cc23cdb83e663\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\c4535fc9969b4e12e413444c746c9448\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\c4535fc9969b4e12e413444c746c9448\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\805303cef8652e6f32306c2b7f85612f\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\805303cef8652e6f32306c2b7f85612f\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\7cc54d82b0522692b28d725c704ee929\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\7cc54d82b0522692b28d725c704ee929\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\342c3efc9934dc60ee72425a6bd2ff04\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\342c3efc9934dc60ee72425a6bd2ff04\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\bd8654e6d24409e7c6912f2eae2243c6\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\bd8654e6d24409e7c6912f2eae2243c6\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\3f1681fa942e3043b3c0d882f01fe90c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\3f1681fa942e3043b3c0d882f01fe90c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\433e3ca9afc9d7ddd0e99d6ddc3f0617\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\433e3ca9afc9d7ddd0e99d6ddc3f0617\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\86484070d9d18ad431d99fbd92afae44\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\86484070d9d18ad431d99fbd92afae44\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\65c1dcd184b8cbe60d6428eb8564e4d7\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\65c1dcd184b8cbe60d6428eb8564e4d7\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\267a83c94598bb805d4ae9cd169598c3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\267a83c94598bb805d4ae9cd169598c3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\d0ece483a15154c9313e8c59ebada92b\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\d0ece483a15154c9313e8c59ebada92b\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\36df53ad5cd9dfed337df207fa2d581c\grpc-android-1.41.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\36df53ad5cd9dfed337df207fa2d581c\grpc-android-1.41.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\400db0c6924849447922a65cbcf72665\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\400db0c6924849447922a65cbcf72665\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Masita\AndroidStudioProjects\Canvas Proyects\CanvasExample - Firebase2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:26:5-79
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\36df53ad5cd9dfed337df207fa2d581c\grpc-android-1.41.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\36df53ad5cd9dfed337df207fa2d581c\grpc-android-1.41.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:14:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:19:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:18:13-84
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.0.1] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\237a19173d8ad0d346ef09c8df529ce2\firebase-firestore-24.0.1\AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\ec2e6f7fb494bdb4a73da936f75b279e\firebase-storage-20.0.0\AndroidManifest.xml:34:17-107
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\843b66fa080cb8d56d062d552aaa69c3\firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9076147a624b6aced4facc32b04b7a7b\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9076147a624b6aced4facc32b04b7a7b\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9076147a624b6aced4facc32b04b7a7b\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\9076147a624b6aced4facc32b04b7a7b\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\b1ed1844b3a1d279ea41002b75e78e95\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\b1ed1844b3a1d279ea41002b75e78e95\play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\b1ed1844b3a1d279ea41002b75e78e95\play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\7cc54d82b0522692b28d725c704ee929\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\7cc54d82b0522692b28d725c704ee929\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\342c3efc9934dc60ee72425a6bd2ff04\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\342c3efc9934dc60ee72425a6bd2ff04\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\010aa2784ba429c5726f146378e62e75\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\7cc54d82b0522692b28d725c704ee929\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\7cc54d82b0522692b28d725c704ee929\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Masita\.gradle\caches\transforms-2\files-2.1\7cc54d82b0522692b28d725c704ee929\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78

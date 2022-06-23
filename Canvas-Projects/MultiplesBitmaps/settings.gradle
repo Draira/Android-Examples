@@ -1,0 +1,2 @@
+rootProject.name = "Multiples Bitmaps"
+include ':app'

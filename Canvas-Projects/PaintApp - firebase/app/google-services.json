@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149989994985",
+    "project_id": "paintapp-firebase",
+    "storage_bucket": "paintapp-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149989994985:android:37fc2a42647d990a241b78",
+        "android_client_info": {
+          "package_name": "android.example.paintapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149989994985-atsnnfrahueo05f0coddsu71e1ob66g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS7tAc5sL7zxJ-oHD1efQ_zxbldO8Nsmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149989994985-atsnnfrahueo05f0coddsu71e1ob66g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
