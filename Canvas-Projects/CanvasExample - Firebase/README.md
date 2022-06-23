@@ -3,7 +3,7 @@ CanvasExample - Firebase
 
 Es una versión más compleja del proyecto CanvasExample recuperado de los codelabs de Google:
 https://github.com/google-developer-training/android-advanced/tree/master/CanvasExample
-CanvasExample - Firebase añade la peculiaridad de añadir todos los elementos dibujados a firebase,
+. CanvasExample - Firebase añade la peculiaridad de añadir todos los elementos dibujados a firebase,
 por lo que este proyecto es persistente a los cambios de estado (por ejemplo el girar la pantalla).
 
 
