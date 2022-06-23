@@ -6,9 +6,9 @@ https://github.com/google-developer-training/android-advanced/tree/master/Canvas
 . CanvasExample - Firebase añade la peculiaridad de añadir todos los elementos dibujados a firebase,
 por lo que este proyecto es persistente a los cambios de estado (por ejemplo el girar la pantalla).
 
-![lala]( https://github.com/Draira/Android-Examples/blob/master/Canvas-Projects/CanvasExample%20-%20Firebase/images/Captura1.PNG?raw=true
+![lala](https://github.com/Draira/Android-Examples/blob/master/Canvas-Projects/CanvasExample%20-%20Firebase/images/Captura1.PNG?raw=true)
 
-
+![alt text](http://url/to/img.png)
 
 
 
