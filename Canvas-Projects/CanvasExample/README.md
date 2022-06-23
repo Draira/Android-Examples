@@ -14,6 +14,7 @@ Esta aplicación utiliza un custom view para implementar el dibujo en un canvas 
 a touch events (básicamente a la interacción táctil del usuario con la pantalla).
 Todo la parte del dibujo ocurre en el UI thread sobre-escribiendo  el método onDraw del custom view.
 
+![phone1](https://github.com/Draira/Android-Examples/blob/master/Canvas-Projects/CanvasExample%20-%20Firebase/images/Captura1.PNG?raw=true)
 
 Link al archivo original
 -------
