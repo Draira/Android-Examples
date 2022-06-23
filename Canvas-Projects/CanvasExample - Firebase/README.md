@@ -1,29 +1,19 @@
 CanvasExample - Solution code
 =============================
 
-Draw on your device screen using your finger.
+Recuperado de los codelabs de Google. 
+CanvasExample es un proyecto básico para poder entender el funcionamiento de un Custom View de dibujo.
+En base a este proyecto se generan diferentes variantes que modifican el proyecto prinicipal ya sea 
+para presentar mejoras o maneras alternativas de desarrollar el código
 
-Introduction
+
+Introducción
 ------------
 
-This app uses a custom view to implement drawing on a canvas in response
-to touch events. All drawing happens on the UI thread by overriding the
-custom view's onDraw() method. You can use this technique when drawing
-always takes less time than a screen refresh cycle on all target devices.
+Esta aplicación utiliza un custom view para implementar el dibujo en un canvas en respuesta
+a touch events (básicamente a la interacción táctil del usuario con la pantalla).
+Todo la parte del dibujo ocurre en el UI thread sobre-escribiendo  el método onDraw del custom view
 
-Pre-requisites
---------------
-
-You need to know:
-- How to open, build, and run apps with Android Studio.
-- How to extract string resources and use string resources in the code.
-- How to create a custom view that handles touch or click events.
-- Basic understanding of the activity lifecycle.
-
-Getting Started
----------------
-
-1. Download and run the app.
 
 License
 -------
