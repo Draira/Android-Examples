@@ -6,5 +6,5 @@ https://github.com/google-developer-training/android-advanced/tree/master/Canvas
 . CanvasExample2 posee su custom view en el archivo XML y además se le añade una forma redondeada y 
 demarcada para escribir o dibujar en un sector en particular dentro de la activity.
 
-![phone1](https://github.com/Draira/Android-Examples/blob/master/Canvas-Projects/CanvasExample%20-%20Firebase/images/Captura1.PNG?raw=true)
-![phone1](https://github.com/Draira/Android-Examples/blob/master/Canvas-Projects/CanvasExample%20-%20Firebase/images/Captura2.PNG)
+![phone3](https://github.com/Draira/Android-Examples/blob/master/Canvas-Projects/CanvasExample2/Captura3.PNG?raw=true)
+
