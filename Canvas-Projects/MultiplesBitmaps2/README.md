@@ -1,11 +1,16 @@
 MultiplesBitmaps2
 =============================
 
-MultiplesBitmaps2 posee 2 botones ADD IMAGE y WRITE
-El primeroañade una imagen que se encuentra en las dependencias al canvas y es posible
-    
-     *  Hay 5 rectángulos que puedo mover dentro de un canvas y cambiar su posición
-     *  Los comentarios en este documento son proporcionados por mí. Por lo que se detalla lo que hace cada método
-     *  Sin embargo, la solución que plantea podría simplificarse, para ello mi solución se encuentra en MultiplesBitmaps2
+MultiplesBitmaps2 posee 2 botones ADD IMAGE y WRITE:
+
+* IMAGE: Añade una imagen dentro de las dependencias y al añadirla al canvas es posible moverla a través de todo el lienzo.   
+* WRITE: Permite escribir dentro del canvas.
+
+Cuando se añade una imagen es posible moverla, pero cuando se selecciona WRITE ya no se puede mover la imagen y es posible escribir sobre ella.
+Para volverla a mover es necesario añadir otra imagen.
+
      
-![phone5](https://github.com/Draira/Android-Examples/blob/master/Canvas-Projects/MultiplesBitmaps/Captura5.PNG?raw=true)
+![phone6](https://github.com/Draira/Android-Examples/blob/master/Canvas-Projects/MultiplesBitmaps2/images/Captura6.PNG?raw=true)
+![phone7](https://github.com/Draira/Android-Examples/blob/master/Canvas-Projects/MultiplesBitmaps2/images/Captura7.PNG?raw=true)
+![phone8](https://github.com/Draira/Android-Examples/blob/master/Canvas-Projects/MultiplesBitmaps2/images/Captura8.PNG?raw=true)
+![phone9](https://github.com/Draira/Android-Examples/blob/master/Canvas-Projects/MultiplesBitmaps2/images/Captura9.PNG?raw=true)
